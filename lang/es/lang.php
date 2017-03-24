@@ -50,7 +50,7 @@ return [
         'temporary' => '302 - Temporal',
         'see_other' => '303 - Ver otro',
         'not_found' => '404 - No encontrado',
-        'gone' => '410 - Se fue',
+        'gone' => '410 - Ya no existe',
         'enabled' => 'Activado',
         'enabled_comment' => 'Activa este switch para activar esta redirección.',
         'priority' => 'Prioridad',
