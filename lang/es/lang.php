@@ -48,9 +48,9 @@ return [
             . 'El marcador coincidente será reemplazado con el valor de la URL destino.',
         'permanent' => '301 - Permanente',
         'temporary' => '302 - Temporal',
-        'see_other' => '303 - See Other', // TODO
+        'see_other' => '303 - Ver otro',
         'not_found' => '404 - No encontrado',
-        'gone' => '410 - Gone', // TODO
+        'gone' => '410 - Se fue',
         'enabled' => 'Activado',
         'enabled_comment' => 'Activa este switch para activar esta redirección.',
         'priority' => 'Prioridad',
@@ -109,7 +109,7 @@ return [
         'create_category' => 'Crear una categoría',
         'edit_category' => 'Modificar una categoría',
         'view_redirect_log' => 'Ver log de redirecciones',
-        'statistics' => 'Statistics', // TODO
+        'statistics' => 'Estadísticas',
     ],
     'buttons' => [
         'add' => 'Agregar', // since 2.0.3
